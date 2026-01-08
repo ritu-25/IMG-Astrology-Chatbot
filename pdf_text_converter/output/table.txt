@@ -1,0 +1,742 @@
+MASKED TABLE TEXT
+Review Mode: GUI
+Text extracted from tables before masking
+============================================================
+
+
+============================================================
+PAGE 9 - 1 Masked Table(s)
+============================================================
+
+--- Table 1 ---
+Backend: manual
+Bounding Box: [87, 1821, 1247, 2149]
+Text:
+Mesha
+Vrishabha
+Aries
+Tula
+ins
+Libra
+Taurus
+Vrischika
+DON
+Mithuna
+Gemini
+Dhanus
+Kataka
+Cancer
+Makara
+Scorpio
+Sagittarius
+Capricorn
+Simha
+Leo
+Kumbha
+Aquarius
+Kanya
+Virgo
+Meena
+Pisces
+
+----------------------------------------
+
+
+============================================================
+PAGE 27 - 1 Masked Table(s)
+============================================================
+
+--- Table 1 ---
+Backend: manual
+Bounding Box: [90, 323, 1312, 1321]
+Text:
+Navamsa
+Mesha
+Vrishabha Mithuna
+Kataka
+Simha
+Kanya
+Thula
+Vrischika
+Dhanus
+Makara
+Kumbha
+Meena
+1st
+Mesha
+Makara
+Thula
+Kataka
+2nd
+Vrishabha
+Kumbha
+Vrischika
+Simba
+3rd
+Mithuna
+Meena
+Dhanus
+Kanya
+4th
+Kataka
+Mesha
+Makara
+Thula
+5th
+Simha
+Vrishabha
+Kumbha
+Vrischika
+6th
+Kanya
+Mithuna
+Meena
+Dhanus
+7th
+Thula
+Kataka
+: Mesha
+Makara
+8th
+Vrischika
+Simha
+Vrishabha Kumbha
+9th
+Dhanus
+Kanya
+Mithuna
+Meena
+
+----------------------------------------
+
+
+============================================================
+PAGE 34 - 1 Masked Table(s)
+============================================================
+
+--- Table 1 ---
+Backend: manual
+Bounding Box: [51, 524, 1310, 2272]
+Text:
+several Shashtyamsas:-
+Odd
+Sign
+Names of
+Shashtyamsas
+Even Odd
+Names of
+Eve
+Sign
+Sign
+Shashtyamsas
+Sign
+1 Ghoramsa
+60
+31 Mrityukaramsa
+30
+2 Rakshasamsa
+59
+32 Kalamsa
+29
+3 Devamsa
+.... 58
+33 Davagniamsa
+***
+28
+4 Kuberamsa
+57
+34 Ghoramsa
+.. 27
+6 Kinnaramsa
+55
+***
+7 Bhrashtamsa
+36 Kantakamsa
+... 54
+8 Kulaghnama
+9 Garalamsa
+87 Sudhamsa
+... 53
+38 Amrutamsa
+5 Yakshavalyamsa .... 56
+35 Yamamsa Amayamsa26
+.25
+1*4*
+24
+23
+10 Agnyamsa
+11 Mayamsa
+་
+12 Prethapurisamsa
+13 Apampathyamsa
+14 Devaganesamsa
+15 Kalamsa
+16 Sarpamsa
+17 Amruthamsa
+18 Chandramsa
+604
+...
+52
+51
+50
+49
+48
+... 47
+***
+39 Purnachandramsa... 22
+40 Vishapradigdhamsa 21
+41 Kulanasamsa
+42 Vamsakshayamsa
+43 Uthpathakamsa
+44 Kalamsa
+46
+45 Saumyamsa
+45
+46 Mridvamsa
+44
+600
+47 Seethalamsa
+43
+42
+49 Indumukhamsa
+41
+50 Pravinamsa
+***
+20
+19
+18
+17
+16
+... 15
+..
+14
+48 Damshtrakaralamsa 13
+•••
+39
+38.
+37
+36
+BASE
+•••
+35
+19 Mridwamsa
+20 Komalamsa
+22 Vishnuamsa
+23 Brahmamsa
+21 Maheswaramsa
+****
+...
+21 Padmabhanvamsa... 40
+51 Kalagniamsa
+52 Dandayudhamsa
+53 Nirmalamsa
+tra
+***
+LADE
+25 Devatusa
+26 Ardramsa
+12
+... 11
+10
+9
+8
+54 Subhakaramsa
+7
+55 Kruramsa
+6
+56 Seethalamsa
+5
+27 Kalinasamsa
+28 Kshitiswaramsa
+29 Kamalakaramsa
+80 Gulikamsa
+MEG
+34
+57 Sudhamsa
+4
+33
+58 Payodhyamsa
+3
+156
+32
+****
+31
+59 Bhramanamsa
+60 Indurekhamsa
+2
+1
+***
+
+----------------------------------------
+
+
+============================================================
+PAGE 44 - 1 Masked Table(s)
+============================================================
+
+--- Table 1 ---
+Backend: manual
+Bounding Box: [48, 811, 1283, 2272]
+Text:
+In the Rasi
+mentioned
+hereunder
+Sun.
+Mars.
+Mrityu bhagas or fateful drgrees of
+Mercury.
+Jupiter.
+Venus.
+Saturn.
+Rahu,
+Ketu.
+Mandi.
+Rasi.
+Mesha
+20
+19
+15
+19 .28
+10
+14
+00
+8
+23
+Vrishabha 9
+Mithuna
+12
+*
+Kataka
+6
+Simha
+00
+8
+29
+Kanya
+24
+28
+Thula
+16
+2 2 2 2% ±
+28
+14
+29
+15
+13
+4
+18 249
+22
+-
+25
+13
+12
+11
+12
+7
+23
+12
+27
+17
+9
++11
+22
+20
+11 22
+10
+12 22
+00
+8
+6
+10
+12
+24
+21
+13 25
+18
+4
+13
+16
+23
+14
+20 13
+4
+3
+22
+22
+22
+14 2
+.
+23
+84
+Vrischika 17
+1
+21
+10
+10
+6
+18.
+Dhanus
+22
+2
+21 17
+27
+28
+22
+21
+24
+18 23
+10
+11
+2018
+i
+Makara
+15
+22
+2
+Kumbha...
+3
+11. 7
+Meena
+23
+0
+155
+= 3.3
+12
+14
+20
+12
+10 20
+15°
+29
+13
+18
+13 21 24
+28
+19
+15
+8
+14
+22 10
+
+----------------------------------------
+
+
+============================================================
+PAGE 46 - 1 Masked Table(s)
+============================================================
+
+--- Table 1 ---
+Backend: manual
+Bounding Box: [45, 1407, 1270, 2272]
+Text:
+1
+
+----------------------------------------
+
+
+============================================================
+PAGE 52 - 1 Masked Table(s)
+============================================================
+
+--- Table 1 ---
+Backend: manual
+Bounding Box: [45, 156, 1242, 817]
+Text:
+NOTES.
+There are nine Upagrahas for the nine planets.
+The Sun's Upagraha is ()
+Kala
+Moon's
+"
+"
+"
+(ufefer)
+Paridhi
+Mars'
+"
+"
+"
+(धूम)
+Dhuma
+"
+Mercury's,
+"
+(अर्द्धप्रहर)
+Ardhaprahara
+" Jupiter's
+( यमकण्टक)
+Yamakantaka
+"
+"
+Venus'
+"
+"
+"
+( कोदण्ड or इन्द्रचाप or कार्मुक) Kodanda
+"
+Saturn's
+"
+"
+Rahu's
+"
+"
+"
+Ketu's
+"
+"
+"
+( मान्दि or गुळिक) Mandi
+( पात or व्यतीपात ) Pata
+( उपकेतु) Upaketu
+
+----------------------------------------
+
+
+============================================================
+PAGE 63 - 1 Masked Table(s)
+============================================================
+
+--- Table 1 ---
+Backend: manual
+Bounding Box: [62, 1390, 1329, 2109]
+Text:
+Name of the Season
+Approximate period.
+From
+To
+Lord of the
+Season.
+1 बसन्त
+(Vasanta) 20th March
+19th May
+Venus
+2 ग्रीष्म
+(Grishma) 20th May
+19th July
+Mars
+3 वर्ष
+(Varsha) 20th July
+19th Septr
+Moon
+4 शरद्
+(Sarat) 20th Septr
+19th Novr
+Mercury
+5 हेमन्त
+6 शिशिर
+(Hemanta) 20th Novr
+19th Januy
+Jupiter
+(Sisira) 20th Januy
+19th March Saturn
+
+----------------------------------------
+
+
+============================================================
+PAGE 64 - 1 Masked Table(s)
+============================================================
+
+--- Table 1 ---
+Backend: manual
+Bounding Box: [288, 656, 1031, 1262]
+Text:
+P.Moon
+Saturn
+Mars
+
+----------------------------------------
+
+
+============================================================
+PAGE 65 - 1 Masked Table(s)
+============================================================
+
+--- Table 1 ---
+Backend: manual
+Bounding Box: [88, 339, 1302, 1456]
+Text:
+Planets
+Their appropriate
+places
+Their articles of Substances
+apparel
+ascribed
+to them
+Sun
+Temples, places of
+worship
+Coarse cloths
+Copper
+Moon
+Marshy places
+New cloths
+..
+Jewel
+(मणि-
+Mani)
+Mars
+Fire places such as
+Kitchen, Engine
+rooms, etc.
+Burnt cloths ... Gold
+Mercury Play grounds.
+Wet cloths
+ī
+Alloys
+Jupiter
+Treasure room
+... Medium cloths Silver
+Venus
+Harems
+... Excellent
+cloths
+Pearls
+Saturn
+Hillock, useless places Rags, torn
+cloths
+Iron
+
+----------------------------------------
+
+
+============================================================
+PAGE 69 - 1 Masked Table(s)
+============================================================
+
+--- Table 1 ---
+Backend: manual
+Bounding Box: [52, 1219, 1271, 2057]
+Text:
+Planet
+The Sun
+The Moon
+Mars
+NOTES.
+Period
+Half a year
+Flavour
+l'ungent
+(Kshana-48')... Saltish
+One day
+Bitter
+Mercury
+Two months
+Mixed
+...
+Jupiter
+One month
+Sweet
+Venus
+Saturn
+15 days
+One year
+Sour
+N.
+कषाय – Kashaya
+-
+
+----------------------------------------
+
+
+============================================================
+PAGE 99 - 1 Masked Table(s)
+============================================================
+
+--- Table 1 ---
+Backend: manual
+Bounding Box: [37, 1155, 615, 2294]
+Text:
+ए
+☑
+1 2
+3 4
+5
+Sun's
+Kshopa is
+5
+Moon's
+"1
+Mars'
+22
+2
+..
+”
+Mercury's "
+Jupiter's
+Venus's
+Saturn's
+"
+"
+3
+"
+Rabu
+Kethu
+4
+"
+4
+5
+3 5 3 3 + +
+"
+
+----------------------------------------
+
+
+============================================================
+PAGE 100 - 1 Masked Table(s)
+============================================================
+
+--- Table 1 ---
+Backend: manual
+Bounding Box: [61, 1554, 1328, 2272]
+Text:
+Planets
+Actual position
+in the Ecliptic.
+Sun
+S.
+D.
+M.
+S.
+10-17-43-30
+Moon
+Mars
+Mercury
+9-14-29--39
+11-27-53-- 9
+11-24-13-44
+Jupiter
+-
+8- 1-25-1
+Venus
+0-14-2-51
+Saturn
+0-27-55-46
+Name of the
+A vastha
+(अवस्था)
+Kauthuka (7)
+The Sub-state
+or condition
+Drishti (f)
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+Bhojana (भोजन) Vicheshta (विचेष्टा)
+Kauthuka ( कोतुक) Cheshta (चेष्टा )
+"
+For further details see Hora Ratna,
+11
+"
+
+----------------------------------------
+

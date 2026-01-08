@@ -1,0 +1,1621 @@
+{
+  "summary": {
+    "total_tables": 115,
+    "auto_detected": 103,
+    "manually_drawn": 12,
+    "masked": 12,
+    "kept": 103
+  },
+  "decisions": [
+    {
+      "page_num": 1,
+      "table_idx": 1,
+      "bbox": [
+        74,
+        570,
+        1163,
+        1959
+      ],
+      "confidence": 0.9804003238677979,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 3,
+      "table_idx": 1,
+      "bbox": [
+        166,
+        1938,
+        1189,
+        2122
+      ],
+      "confidence": 0.734218955039978,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 3,
+      "table_idx": 2,
+      "bbox": [
+        0,
+        794,
+        34,
+        1718
+      ],
+      "confidence": 0.5045276284217834,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 3,
+      "table_idx": 3,
+      "bbox": [
+        513,
+        1051,
+        1280,
+        1616
+      ],
+      "confidence": 0.6796100735664368,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 4,
+      "table_idx": 1,
+      "bbox": [
+        81,
+        1879,
+        1184,
+        2063
+      ],
+      "confidence": 0.67572420835495,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 4,
+      "table_idx": 2,
+      "bbox": [
+        745,
+        1038,
+        1206,
+        1600
+      ],
+      "confidence": 0.7795932292938232,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 5,
+      "table_idx": 1,
+      "bbox": [
+        115,
+        1952,
+        1189,
+        2265
+      ],
+      "confidence": 0.9453940391540527,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 6,
+      "table_idx": 1,
+      "bbox": [
+        54,
+        131,
+        1321,
+        2249
+      ],
+      "confidence": 0.9972960352897644,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 7,
+      "table_idx": 1,
+      "bbox": [
+        208,
+        11,
+        1265,
+        1464
+      ],
+      "confidence": 0.9001991748809814,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 9,
+      "table_idx": 1,
+      "bbox": [
+        86,
+        1837,
+        1230,
+        2167
+      ],
+      "confidence": 0.7970330119132996,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 9,
+      "table_idx": 2,
+      "bbox": [
+        87,
+        1821,
+        1247,
+        2149
+      ],
+      "confidence": 1.0,
+      "backend": "manual",
+      "source": "manual",
+      "decision": "mask"
+    },
+    {
+      "page_num": 12,
+      "table_idx": 1,
+      "bbox": [
+        59,
+        276,
+        1200,
+        1196
+      ],
+      "confidence": 0.6214666962623596,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 12,
+      "table_idx": 2,
+      "bbox": [
+        54,
+        221,
+        1240,
+        1269
+      ],
+      "confidence": 0.9722207188606262,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 12,
+      "table_idx": 3,
+      "bbox": [
+        62,
+        259,
+        1211,
+        1189
+      ],
+      "confidence": 0.8209713697433472,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 13,
+      "table_idx": 1,
+      "bbox": [
+        161,
+        903,
+        1338,
+        2281
+      ],
+      "confidence": 0.8713696599006653,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 13,
+      "table_idx": 2,
+      "bbox": [
+        0,
+        1056,
+        56,
+        2299
+      ],
+      "confidence": 0.9319871068000793,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 14,
+      "table_idx": 1,
+      "bbox": [
+        52,
+        455,
+        1190,
+        964
+      ],
+      "confidence": 0.5263276696205139,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 18,
+      "table_idx": 1,
+      "bbox": [
+        120,
+        1414,
+        1155,
+        1811
+      ],
+      "confidence": 0.6036631464958191,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 18,
+      "table_idx": 2,
+      "bbox": [
+        3,
+        1876,
+        42,
+        2310
+      ],
+      "confidence": 0.5160201191902161,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 18,
+      "table_idx": 3,
+      "bbox": [
+        158,
+        1941,
+        1158,
+        2177
+      ],
+      "confidence": 0.7612928748130798,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 18,
+      "table_idx": 4,
+      "bbox": [
+        752,
+        745,
+        1257,
+        2068
+      ],
+      "confidence": 0.8524470925331116,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 19,
+      "table_idx": 1,
+      "bbox": [
+        95,
+        850,
+        1312,
+        2264
+      ],
+      "confidence": 0.9253919720649719,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 20,
+      "table_idx": 1,
+      "bbox": [
+        430,
+        1932,
+        1354,
+        2298
+      ],
+      "confidence": 0.6546647548675537,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 20,
+      "table_idx": 2,
+      "bbox": [
+        100,
+        1851,
+        1316,
+        2274
+      ],
+      "confidence": 0.9199570417404175,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 21,
+      "table_idx": 1,
+      "bbox": [
+        118,
+        1550,
+        1277,
+        1859
+      ],
+      "confidence": 0.6450804471969604,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 21,
+      "table_idx": 2,
+      "bbox": [
+        156,
+        1989,
+        1257,
+        2257
+      ],
+      "confidence": 0.8645095229148865,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 21,
+      "table_idx": 3,
+      "bbox": [
+        414,
+        349,
+        1325,
+        2274
+      ],
+      "confidence": 0.899228036403656,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 22,
+      "table_idx": 1,
+      "bbox": [
+        70,
+        186,
+        1329,
+        1866
+      ],
+      "confidence": 0.7056379318237305,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 23,
+      "table_idx": 1,
+      "bbox": [
+        2,
+        1877,
+        44,
+        2328
+      ],
+      "confidence": 0.5593062043190002,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 23,
+      "table_idx": 2,
+      "bbox": [
+        100,
+        2017,
+        1159,
+        2245
+      ],
+      "confidence": 0.8941627740859985,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 24,
+      "table_idx": 1,
+      "bbox": [
+        62,
+        594,
+        1277,
+        1498
+      ],
+      "confidence": 0.8606656789779663,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 25,
+      "table_idx": 1,
+      "bbox": [
+        13,
+        1176,
+        321,
+        1893
+      ],
+      "confidence": 0.6023207902908325,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 26,
+      "table_idx": 1,
+      "bbox": [
+        76,
+        1155,
+        1277,
+        1768
+      ],
+      "confidence": 0.6563549637794495,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 26,
+      "table_idx": 2,
+      "bbox": [
+        -3,
+        782,
+        110,
+        1935
+      ],
+      "confidence": 0.6458048224449158,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 27,
+      "table_idx": 1,
+      "bbox": [
+        129,
+        337,
+        1236,
+        1315
+      ],
+      "confidence": 0.9986850619316101,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 27,
+      "table_idx": 2,
+      "bbox": [
+        90,
+        323,
+        1312,
+        1321
+      ],
+      "confidence": 1.0,
+      "backend": "manual",
+      "source": "manual",
+      "decision": "mask"
+    },
+    {
+      "page_num": 28,
+      "table_idx": 1,
+      "bbox": [
+        42,
+        1464,
+        1182,
+        1904
+      ],
+      "confidence": 0.6233751773834229,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 30,
+      "table_idx": 1,
+      "bbox": [
+        36,
+        1994,
+        309,
+        2221
+      ],
+      "confidence": 0.554366409778595,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 30,
+      "table_idx": 2,
+      "bbox": [
+        67,
+        1989,
+        1220,
+        2171
+      ],
+      "confidence": 0.9501795768737793,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 31,
+      "table_idx": 1,
+      "bbox": [
+        92,
+        2040,
+        1176,
+        2240
+      ],
+      "confidence": 0.7744046449661255,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 32,
+      "table_idx": 1,
+      "bbox": [
+        62,
+        1896,
+        1157,
+        2117
+      ],
+      "confidence": 0.5292668342590332,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 33,
+      "table_idx": 1,
+      "bbox": [
+        88,
+        1777,
+        1169,
+        2173
+      ],
+      "confidence": 0.6420515775680542,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 33,
+      "table_idx": 2,
+      "bbox": [
+        958,
+        551,
+        1296,
+        2242
+      ],
+      "confidence": 0.7494820952415466,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 34,
+      "table_idx": 1,
+      "bbox": [
+        79,
+        573,
+        1294,
+        2259
+      ],
+      "confidence": 0.9971069693565369,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 34,
+      "table_idx": 2,
+      "bbox": [
+        51,
+        524,
+        1310,
+        2272
+      ],
+      "confidence": 1.0,
+      "backend": "manual",
+      "source": "manual",
+      "decision": "mask"
+    },
+    {
+      "page_num": 35,
+      "table_idx": 1,
+      "bbox": [
+        55,
+        1320,
+        1215,
+        1683
+      ],
+      "confidence": 0.8370609283447266,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 35,
+      "table_idx": 2,
+      "bbox": [
+        27,
+        1113,
+        549,
+        1665
+      ],
+      "confidence": 0.8808087110519409,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 36,
+      "table_idx": 1,
+      "bbox": [
+        81,
+        1038,
+        1230,
+        1785
+      ],
+      "confidence": 0.6071616411209106,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 36,
+      "table_idx": 2,
+      "bbox": [
+        82,
+        969,
+        1235,
+        1778
+      ],
+      "confidence": 0.6581143140792847,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 37,
+      "table_idx": 1,
+      "bbox": [
+        80,
+        2020,
+        1197,
+        2184
+      ],
+      "confidence": 0.6935670971870422,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 38,
+      "table_idx": 1,
+      "bbox": [
+        38,
+        1982,
+        1090,
+        2182
+      ],
+      "confidence": 0.8104561567306519,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 40,
+      "table_idx": 1,
+      "bbox": [
+        94,
+        1920,
+        1198,
+        2159
+      ],
+      "confidence": 0.8552512526512146,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 43,
+      "table_idx": 1,
+      "bbox": [
+        62,
+        693,
+        1304,
+        1764
+      ],
+      "confidence": 0.7470703125,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 43,
+      "table_idx": 2,
+      "bbox": [
+        61,
+        618,
+        1305,
+        1732
+      ],
+      "confidence": 0.8024424314498901,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 44,
+      "table_idx": 1,
+      "bbox": [
+        68,
+        936,
+        1213,
+        2089
+      ],
+      "confidence": 0.6293442249298096,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 44,
+      "table_idx": 2,
+      "bbox": [
+        48,
+        811,
+        1283,
+        2272
+      ],
+      "confidence": 1.0,
+      "backend": "manual",
+      "source": "manual",
+      "decision": "mask"
+    },
+    {
+      "page_num": 45,
+      "table_idx": 1,
+      "bbox": [
+        55,
+        987,
+        1265,
+        1364
+      ],
+      "confidence": 0.5297209024429321,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 46,
+      "table_idx": 1,
+      "bbox": [
+        52,
+        1451,
+        1263,
+        2236
+      ],
+      "confidence": 0.8167038559913635,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 46,
+      "table_idx": 2,
+      "bbox": [
+        45,
+        1407,
+        1270,
+        2272
+      ],
+      "confidence": 1.0,
+      "backend": "manual",
+      "source": "manual",
+      "decision": "mask"
+    },
+    {
+      "page_num": 47,
+      "table_idx": 1,
+      "bbox": [
+        83,
+        1968,
+        1274,
+        2226
+      ],
+      "confidence": 0.716901957988739,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 48,
+      "table_idx": 1,
+      "bbox": [
+        48,
+        1984,
+        1204,
+        2292
+      ],
+      "confidence": 0.5394407510757446,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 49,
+      "table_idx": 1,
+      "bbox": [
+        9,
+        2069,
+        57,
+        2298
+      ],
+      "confidence": 0.5074067115783691,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 49,
+      "table_idx": 2,
+      "bbox": [
+        154,
+        2081,
+        1197,
+        2229
+      ],
+      "confidence": 0.9394785761833191,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 49,
+      "table_idx": 3,
+      "bbox": [
+        0,
+        512,
+        52,
+        2050
+      ],
+      "confidence": 0.5455053448677063,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 50,
+      "table_idx": 1,
+      "bbox": [
+        74,
+        1332,
+        1242,
+        2278
+      ],
+      "confidence": 0.9478221535682678,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 52,
+      "table_idx": 1,
+      "bbox": [
+        167,
+        151,
+        1297,
+        2277
+      ],
+      "confidence": 0.5111965537071228,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 52,
+      "table_idx": 2,
+      "bbox": [
+        45,
+        156,
+        1242,
+        817
+      ],
+      "confidence": 1.0,
+      "backend": "manual",
+      "source": "manual",
+      "decision": "mask"
+    },
+    {
+      "page_num": 53,
+      "table_idx": 1,
+      "bbox": [
+        99,
+        2020,
+        1222,
+        2205
+      ],
+      "confidence": 0.9591667056083679,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 54,
+      "table_idx": 1,
+      "bbox": [
+        93,
+        1869,
+        1187,
+        2090
+      ],
+      "confidence": 0.6915298104286194,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 56,
+      "table_idx": 1,
+      "bbox": [
+        590,
+        345,
+        1291,
+        1535
+      ],
+      "confidence": 0.5933123230934143,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 59,
+      "table_idx": 1,
+      "bbox": [
+        83,
+        212,
+        1270,
+        2308
+      ],
+      "confidence": 0.995925784111023,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 60,
+      "table_idx": 1,
+      "bbox": [
+        152,
+        194,
+        1247,
+        970
+      ],
+      "confidence": 0.7576476335525513,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 63,
+      "table_idx": 1,
+      "bbox": [
+        90,
+        1428,
+        1307,
+        2077
+      ],
+      "confidence": 0.9590416550636292,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 63,
+      "table_idx": 2,
+      "bbox": [
+        62,
+        1390,
+        1329,
+        2109
+      ],
+      "confidence": 1.0,
+      "backend": "manual",
+      "source": "manual",
+      "decision": "mask"
+    },
+    {
+      "page_num": 64,
+      "table_idx": 1,
+      "bbox": [
+        288,
+        656,
+        1031,
+        1262
+      ],
+      "confidence": 1.0,
+      "backend": "manual",
+      "source": "manual",
+      "decision": "mask"
+    },
+    {
+      "page_num": 65,
+      "table_idx": 1,
+      "bbox": [
+        117,
+        439,
+        1238,
+        1358
+      ],
+      "confidence": 0.6988612413406372,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 65,
+      "table_idx": 2,
+      "bbox": [
+        88,
+        339,
+        1302,
+        1456
+      ],
+      "confidence": 1.0,
+      "backend": "manual",
+      "source": "manual",
+      "decision": "mask"
+    },
+    {
+      "page_num": 67,
+      "table_idx": 1,
+      "bbox": [
+        75,
+        1791,
+        1289,
+        2218
+      ],
+      "confidence": 0.8326563239097595,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 69,
+      "table_idx": 1,
+      "bbox": [
+        74,
+        1358,
+        1244,
+        2022
+      ],
+      "confidence": 0.5809007883071899,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 69,
+      "table_idx": 2,
+      "bbox": [
+        52,
+        1219,
+        1271,
+        2057
+      ],
+      "confidence": 1.0,
+      "backend": "manual",
+      "source": "manual",
+      "decision": "mask"
+    },
+    {
+      "page_num": 71,
+      "table_idx": 1,
+      "bbox": [
+        95,
+        135,
+        1342,
+        1802
+      ],
+      "confidence": 0.8085556626319885,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 72,
+      "table_idx": 1,
+      "bbox": [
+        59,
+        1067,
+        1206,
+        1296
+      ],
+      "confidence": 0.5627695918083191,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 72,
+      "table_idx": 2,
+      "bbox": [
+        65,
+        638,
+        1248,
+        1041
+      ],
+      "confidence": 0.6620829105377197,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 73,
+      "table_idx": 1,
+      "bbox": [
+        501,
+        698,
+        1315,
+        1651
+      ],
+      "confidence": 0.5320797562599182,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 75,
+      "table_idx": 1,
+      "bbox": [
+        79,
+        2029,
+        1208,
+        2209
+      ],
+      "confidence": 0.8837152719497681,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 76,
+      "table_idx": 1,
+      "bbox": [
+        68,
+        1924,
+        1182,
+        2212
+      ],
+      "confidence": 0.7297469973564148,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 77,
+      "table_idx": 1,
+      "bbox": [
+        37,
+        2001,
+        1219,
+        2207
+      ],
+      "confidence": 0.5550156235694885,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 79,
+      "table_idx": 1,
+      "bbox": [
+        188,
+        179,
+        1363,
+        1481
+      ],
+      "confidence": 0.8488101959228516,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 82,
+      "table_idx": 1,
+      "bbox": [
+        140,
+        607,
+        1281,
+        1400
+      ],
+      "confidence": 0.8589047193527222,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 84,
+      "table_idx": 1,
+      "bbox": [
+        92,
+        1274,
+        1111,
+        1860
+      ],
+      "confidence": 0.6683724522590637,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 84,
+      "table_idx": 2,
+      "bbox": [
+        86,
+        1459,
+        1097,
+        1881
+      ],
+      "confidence": 0.5030280947685242,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 85,
+      "table_idx": 1,
+      "bbox": [
+        88,
+        1879,
+        1276,
+        2137
+      ],
+      "confidence": 0.5077981948852539,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 89,
+      "table_idx": 1,
+      "bbox": [
+        115,
+        1489,
+        1279,
+        1681
+      ],
+      "confidence": 0.6766903400421143,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 89,
+      "table_idx": 2,
+      "bbox": [
+        118,
+        1898,
+        1271,
+        2143
+      ],
+      "confidence": 0.8846815824508667,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 89,
+      "table_idx": 3,
+      "bbox": [
+        393,
+        871,
+        1336,
+        1754
+      ],
+      "confidence": 0.5347334742546082,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 90,
+      "table_idx": 1,
+      "bbox": [
+        50,
+        2009,
+        1097,
+        2186
+      ],
+      "confidence": 0.6022631525993347,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 91,
+      "table_idx": 1,
+      "bbox": [
+        124,
+        1448,
+        1186,
+        1701
+      ],
+      "confidence": 0.5650794506072998,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 91,
+      "table_idx": 2,
+      "bbox": [
+        114,
+        1853,
+        1267,
+        2135
+      ],
+      "confidence": 0.6220195889472961,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 91,
+      "table_idx": 3,
+      "bbox": [
+        867,
+        656,
+        1300,
+        2039
+      ],
+      "confidence": 0.6645694971084595,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 92,
+      "table_idx": 1,
+      "bbox": [
+        48,
+        1943,
+        1187,
+        2164
+      ],
+      "confidence": 0.5446180105209351,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 94,
+      "table_idx": 1,
+      "bbox": [
+        202,
+        1138,
+        1306,
+        2263
+      ],
+      "confidence": 0.5246656537055969,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 94,
+      "table_idx": 2,
+      "bbox": [
+        4,
+        1204,
+        141,
+        2292
+      ],
+      "confidence": 0.939989447593689,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 96,
+      "table_idx": 1,
+      "bbox": [
+        70,
+        1251,
+        1306,
+        2236
+      ],
+      "confidence": 0.51617830991745,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 96,
+      "table_idx": 2,
+      "bbox": [
+        83,
+        1197,
+        1326,
+        2273
+      ],
+      "confidence": 0.9691466689109802,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 96,
+      "table_idx": 3,
+      "bbox": [
+        6,
+        1106,
+        292,
+        2281
+      ],
+      "confidence": 0.6411446332931519,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 97,
+      "table_idx": 1,
+      "bbox": [
+        91,
+        240,
+        1207,
+        943
+      ],
+      "confidence": 0.7880205512046814,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 98,
+      "table_idx": 1,
+      "bbox": [
+        50,
+        194,
+        257,
+        1718
+      ],
+      "confidence": 0.9410589337348938,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 98,
+      "table_idx": 2,
+      "bbox": [
+        956,
+        158,
+        1334,
+        1736
+      ],
+      "confidence": 0.9445696473121643,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 99,
+      "table_idx": 1,
+      "bbox": [
+        67,
+        1264,
+        615,
+        2187
+      ],
+      "confidence": 0.732313334941864,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 99,
+      "table_idx": 2,
+      "bbox": [
+        92,
+        857,
+        730,
+        2252
+      ],
+      "confidence": 0.6642332077026367,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 99,
+      "table_idx": 3,
+      "bbox": [
+        37,
+        1155,
+        615,
+        2294
+      ],
+      "confidence": 1.0,
+      "backend": "manual",
+      "source": "manual",
+      "decision": "mask"
+    },
+    {
+      "page_num": 100,
+      "table_idx": 1,
+      "bbox": [
+        74,
+        1583,
+        1290,
+        2161
+      ],
+      "confidence": 0.9756683111190796,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 100,
+      "table_idx": 2,
+      "bbox": [
+        75,
+        1583,
+        656,
+        2099
+      ],
+      "confidence": 0.5649777054786682,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    },
+    {
+      "page_num": 100,
+      "table_idx": 3,
+      "bbox": [
+        61,
+        1554,
+        1328,
+        2272
+      ],
+      "confidence": 1.0,
+      "backend": "manual",
+      "source": "manual",
+      "decision": "mask"
+    },
+    {
+      "page_num": 101,
+      "table_idx": 1,
+      "bbox": [
+        77,
+        876,
+        1265,
+        1315
+      ],
+      "confidence": 0.6087412238121033,
+      "backend": "table-transformer",
+      "source": "auto",
+      "decision": "keep"
+    }
+  ]
+}
